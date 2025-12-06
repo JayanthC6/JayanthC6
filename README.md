@@ -2,7 +2,7 @@
 
 🚀 MCA Student at Bangalore Institute of Technology | Aspiring Python Backend & Full-Stack Developer
 
-### 🛠️ Programming Languages I Know
+### 🛠️ Programming Languages 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
