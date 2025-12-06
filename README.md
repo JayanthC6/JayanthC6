@@ -11,9 +11,17 @@
 
 ### 📚 Projects
 
-- Appointment Booking System (Hospital) - C Language  
-- Pathfinding Visualizer - HTML, CSS, JavaScript  
-- Currently learning Python DSA and Java OOP  
+Smart Attendance Tracker – Flask, MySQL
+
+Appointment Booking System (Hospital) – C
+
+Pathfinding Visualizer(DSA) – HTML, CSS, JavaScript
+
+Farmer Crop Suggestion System – FastAPI, React, MongoDB
+
+NeuroSymbolic AI for Explainable Brain Tumor Analysis Through MRI Scans(Final Year Project MCA) - FastAPI, Python, React, MongoDB, XAI, TensorFlow
+
+CryptoCurrency Price Tracker(Final Year Project BCA) - React, HTML, CSS, Bootstrap
 
 ---
 
