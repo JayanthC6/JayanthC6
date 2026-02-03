@@ -1,29 +1,58 @@
-# Hi there, I'm Jayanth C! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Jayanth+C;MCA+Student+@+BIT;Python+Backend+Developer;Full-Stack+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+  </a>
+</h1>
 
-### 🎓 MCA Student at Bangalore Institute of Technology
-I am a passionate software developer with a focus on **Python Backend** and **Full-Stack Development**. I love building scalable web applications and exploring the intersection of AI and Software Engineering.
+<p align="center">
+  <em>"Turning coffee into code and ideas into reality." ☕ ➡️ 💻</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayanthc18/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jayanthc18" /></a>
+  <a href="mailto:jayanthjayanthc96@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://jayanthc6.github.io/jayanth-portfolio/"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 👨‍💻 About Me
+
+I am a passionate **Master of Computer Applications (MCA)** student at **Bangalore Institute of Technology**. My journey revolves around building robust **backend systems** with Python and creating seamless **full-stack experiences**. I love solving complex problems, from optimizing database queries to deploying AI models.
+
+* 🏆 I recently completed **Neurosymbolic AI for Explainable Brain Tumor Diagnosis**.
+* 🌱 I’m currently learning **Advanced System Design**.
+* 👯 I’m looking to collaborate on **Open Source Python Projects**.
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
@@ -42,17 +71,9 @@ I am a passionate software developer with a focus on **Python Backend** and **Fu
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JayanthC6&show_icons=true&theme=radical" alt="JayanthC6 Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthC6&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jayanthc18/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jayanthc18" /></a>
-<a href="mailto:jayanthjayanthc96@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://jayanthc6.github.io/jayanth-portfolio/"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayanthC6&show_icons=true&theme=radical" height="180" alt="JayanthC6 Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanthC6&theme=radical" height="180" alt="JayanthC6 Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthC6&layout=compact&theme=radical" height="180" alt="Top Languages" />
+</div>
