@@ -68,12 +68,3 @@ I am a passionate **Master of Computer Applications (MCA)** student at **Bangalo
 | **[Hospital Booking](./)** | `C Language` | Console-based appointment scheduling system. |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayanthC6&show_icons=true&theme=radical" height="180" alt="JayanthC6 Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanthC6&theme=radical" height="180" alt="JayanthC6 Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthC6&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</div>
