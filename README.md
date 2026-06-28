@@ -17,12 +17,15 @@
 ---
 
 ### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a passionate **Master of Computer Applications (MCA)** student at **Bangalore Institute of Technology**. My journey revolves around building robust **backend systems** with Python and creating seamless **full-stack experiences**. I love solving complex problems, from optimizing database queries to deploying AI models.
+I'm an MCA Graduate and Software Developer passionate about building scalable backend systems, full-stack web applications, and AI-powered solutions. I enjoy solving real-world problems through clean code, modern technologies, and continuous learning.
 
-* 🏆 I recently completed **Neurosymbolic AI for Explainable Brain Tumor Diagnosis**.
-* 🌱 I’m currently learning **Advanced System Design**.
-* 👯 I’m looking to collaborate on **Open Source Python Projects**.
+* Built AI and full-stack projects using Python, Java, React, FastAPI, Flask, and MySQL.
+* Currently exploring System Design, Cloud Computing, and Backend Engineering.
+* Open to collaborating on open-source projects and innovative software solutions.
+* Actively seeking Software Developer and Full-Stack Engineer opportunities.
+
 
 ---
 
