@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Jayanth+C;MCA+Student+@+BIT;Python+Backend+Developer;Full-Stack+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Jayanth+C;MCA+Graduate+;Python+Backend+Developer;Full-Stack+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -28,7 +28,7 @@ I'm an MCA Graduate and Software Developer passionate about building scalable ba
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -58,7 +58,7 @@ I'm an MCA Graduate and Software Developer passionate about building scalable ba
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
