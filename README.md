@@ -16,8 +16,7 @@
 
 ---
 
-### 👨‍💻 About Me
-## 👨‍💻 About Me
+### About Me
 
 I'm an MCA Graduate and Software Developer passionate about building scalable backend systems, full-stack web applications, and AI-powered solutions. I enjoy solving real-world problems through clean code, modern technologies, and continuous learning.
 
